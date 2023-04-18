@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/jeon._jj00/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/jeon._jj00/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
 <!--
 **Richardo-0526/Richardo-0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

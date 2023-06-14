@@ -30,7 +30,7 @@
   <br/>
   
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=richardo0526)][(https://solved.ac/profile/richardo0526)](https://solved.ac/profile/richardo0526)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=richardo0526)](https://solved.ac/profile/richardo0526)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardo-0526&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   

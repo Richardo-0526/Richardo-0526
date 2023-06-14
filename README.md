@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Richardo&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Richardo&fontSize=90&animation=fadeIn)
 
 <a href="https://www.instagram.com/jeon._jj00/" target="_blank"><img src="https://img.shields.io/badge/jeon._jj00-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richardo-0526&show_icons=true&theme=radical)
